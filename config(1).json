@@ -1,0 +1,11 @@
+{
+    "shop_domain": "nuhanciam.myshopify.com",
+    "shop_url": "https://nuhanciam.com",
+    "brand": "Nuhanciam",
+    "currency": "EUR",
+    "language": "fr",
+    "feed_title": "Nuhanciam - Catalogue Produits",
+    "feed_description": "Soins cosmétiques pour peaux foncées et métissées",
+    "default_gender": "unisex",
+    "output_file": "feed.xml"
+}

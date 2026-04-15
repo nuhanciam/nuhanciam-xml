@@ -1,0 +1,14 @@
+# Ne jamais commiter ces fichiers
+.env
+*.env
+config_local.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Fichier généré localement
+feed.xml
