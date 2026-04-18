@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 17 Apr 2026 10:22:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 08:08:06 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -347,20 +347,19 @@
       <g:custom_label_4>Anti-taches, Contours des yeux, Visage</g:custom_label_4>
     </item>
     <item>
-      <g:id>034</g:id>
-      <g:title>Crème Éclaircissante Taches - 50 ML</g:title>
+      <g:id>shopify_57082015908184</g:id>
+      <g:title>Crème Éclaircissante Taches - 3x50 ml</g:title>
       <g:description>La Crème Éclaircissante Taches pour le visage et le cou agit sur tous les types de taches pigmentaires brunes (irritation, soleil, vieillissement). Spécialement conçue pour répondre aux besoins des peaux noires à mates, elle est tout autant adaptée aux peaux plus claires. Les meilleurs ingrédients ont été sélectionnés pour leur capacité à cibler et traiter l'hyperpigmentation tout en respectant l'équilibre naturel de la peau. Formulée à partir d'actifs d’origine naturelle, cette crème anti-taches offre une action éclaircissante douce et prolongée et se distingue par sa formulation innovante, alliant science et naturalité.</g:description>
-      <g:link>https://nuhanciam.com/products/creme-eclaircissante-taches?variant=49874859295064</g:link>
+      <g:link>https://nuhanciam.com/products/creme-eclaircissante-taches?variant=57082015908184</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-creme-eclaircissante-taches.jpg?v=1753955059</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>34.00 EUR</g:price>
+      <g:price>102.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
-      <g:gtin>3664448000304</g:gtin>
-      <g:mpn>034</g:mpn>
-      <g:identifier_exists>yes</g:identifier_exists>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>86.70 EUR</g:sale_price>
       <g:shipping_weight>0.072 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CremeEclaircissanteTaches.png?v=1753797184</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -368,7 +367,7 @@
       <g:item_group_id>9985642201432</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>regular</g:custom_label_2>
+      <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Anti-taches, Crèmes &amp; Fluides, Nouveauté, Visage</g:custom_label_4>
     </item>
@@ -399,19 +398,20 @@
       <g:custom_label_4>Anti-taches, Crèmes &amp; Fluides, Nouveauté, Visage</g:custom_label_4>
     </item>
     <item>
-      <g:id>shopify_57082015908184</g:id>
-      <g:title>Crème Éclaircissante Taches - 3x50 ml</g:title>
+      <g:id>034</g:id>
+      <g:title>Crème Éclaircissante Taches - 50 ML</g:title>
       <g:description>La Crème Éclaircissante Taches pour le visage et le cou agit sur tous les types de taches pigmentaires brunes (irritation, soleil, vieillissement). Spécialement conçue pour répondre aux besoins des peaux noires à mates, elle est tout autant adaptée aux peaux plus claires. Les meilleurs ingrédients ont été sélectionnés pour leur capacité à cibler et traiter l'hyperpigmentation tout en respectant l'équilibre naturel de la peau. Formulée à partir d'actifs d’origine naturelle, cette crème anti-taches offre une action éclaircissante douce et prolongée et se distingue par sa formulation innovante, alliant science et naturalité.</g:description>
-      <g:link>https://nuhanciam.com/products/creme-eclaircissante-taches?variant=57082015908184</g:link>
+      <g:link>https://nuhanciam.com/products/creme-eclaircissante-taches?variant=49874859295064</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-creme-eclaircissante-taches.jpg?v=1753955059</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>102.00 EUR</g:price>
+      <g:price>34.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>86.70 EUR</g:sale_price>
+      <g:gtin>3664448000304</g:gtin>
+      <g:mpn>034</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:shipping_weight>0.072 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CremeEclaircissanteTaches.png?v=1753797184</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -419,7 +419,7 @@
       <g:item_group_id>9985642201432</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Anti-taches, Crèmes &amp; Fluides, Nouveauté, Visage</g:custom_label_4>
     </item>
@@ -2969,34 +2969,6 @@
       <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
-      <g:id>252070</g:id>
-      <g:title>Sérum Anti-taches Puissance 4 - 2x30 ml</g:title>
-      <g:description>Le Sérum Anti-Taches Puissance 4, pour le visage, le cou et le décolleté, agit sur tous les désordres pigmentaires : taches de vieillesse, hyperpigmentation, irrégularités du teint et masque de grossesse. Prévient la formation des taches. Texture fine et fondante, agréablement parfumée.</g:description>
-      <g:link>https://nuhanciam.com/products/anti-taches-puissance-4?variant=57082538099032</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-serum-anti-taches-2025.jpg?v=1733927778</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>104.00 EUR</g:price>
-      <g:brand>Nuhanciam</g:brand>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
-      <g:product_type>Visage</g:product_type>
-      <g:mpn>252070</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>98.80 EUR</g:sale_price>
-      <g:shipping_weight>0.162 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/serum-anti-taches-naturel-peau-noire-mate-metissee.png?v=1743432341</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/serum-anti-taches-brunes-efficace.jpg?v=1743432341</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/anti-taches-puissance4_1.jpg?v=1743509718</g:additional_image_link>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:item_group_id>8815375090008</g:item_group_id>
-      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
-      <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
-    </item>
-    <item>
       <g:id>253071</g:id>
       <g:title>Sérum Anti-taches Puissance 4 - 3x30 ml</g:title>
       <g:description>Le Sérum Anti-Taches Puissance 4, pour le visage, le cou et le décolleté, agit sur tous les désordres pigmentaires : taches de vieillesse, hyperpigmentation, irrégularités du teint et masque de grossesse. Prévient la formation des taches. Texture fine et fondante, agréablement parfumée.</g:description>
@@ -3025,31 +2997,30 @@
       <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
-      <g:id>046</g:id>
-      <g:title>Sérum Éclaircissant Taches - 30 ml</g:title>
-      <g:description>Le Sérum Éclaircissant Taches pour le visage, le cou et le décolleté, est un soin quotidien spécialement conçu pour réduire et prévenir l'apparition des taches pigmentaires face aux agressions extérieures. Sa formule avancée associe trois actifs puissants : l'extrait d'algues Arc-en-ciel, concentré cellulaire aux propriétés éclaircissantes, l'extrait de Fleur de nopal qui accélère l'exfoliation naturelle de la peau, et la niacinamide qui réduit la surproduction de mélanine responsable des taches. Son efficacité est cliniquement prouvée* avec une réduction significative de 27,4% de l'intensité de la couleur des taches après 56 jours d'utilisation et une amélioration de l'éclat de 13,2% sur les phototypes VI (moyenne de 4,4% sur l'ensemble des phototypes). Sa texture légère et fondante pénètre rapidement sans effet gras pour une peau visiblement plus unifiée, lumineuse et éclatante jour après jour.</g:description>
-      <g:link>https://nuhanciam.com/products/serum-eclaircissant-taches?variant=53950253891928</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-serum-eclaircissant-taches.jpg?v=1753954644</g:image_link>
+      <g:id>252070</g:id>
+      <g:title>Sérum Anti-taches Puissance 4 - 2x30 ml</g:title>
+      <g:description>Le Sérum Anti-Taches Puissance 4, pour le visage, le cou et le décolleté, agit sur tous les désordres pigmentaires : taches de vieillesse, hyperpigmentation, irrégularités du teint et masque de grossesse. Prévient la formation des taches. Texture fine et fondante, agréablement parfumée.</g:description>
+      <g:link>https://nuhanciam.com/products/anti-taches-puissance-4?variant=57082538099032</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-serum-anti-taches-2025.jpg?v=1733927778</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>48.00 EUR</g:price>
+      <g:price>104.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
       <g:product_type>Visage</g:product_type>
-      <g:gtin>3664448000410</g:gtin>
-      <g:mpn>046</g:mpn>
-      <g:identifier_exists>yes</g:identifier_exists>
+      <g:mpn>252070</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>98.80 EUR</g:sale_price>
       <g:shipping_weight>0.162 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-SerumEclaircissantTaches.jpg?v=1743509718</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/SERUMECLAIRCISSANTETACHES.png?v=1743509718</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/serum-anti-taches-naturel-peau-noire-mate-metissee.png?v=1743432341</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/serum-anti-taches-brunes-efficace.jpg?v=1743432341</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/anti-taches-puissance4_1.jpg?v=1743509718</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-serum-eclaircissant-taches-_-_Nuhanciam.jpg?v=1759940673</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
-      <g:item_group_id>14810757890392</g:item_group_id>
+      <g:item_group_id>8815375090008</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>regular</g:custom_label_2>
+      <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
@@ -3108,6 +3079,35 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>046</g:id>
+      <g:title>Sérum Éclaircissant Taches - 30 ml</g:title>
+      <g:description>Le Sérum Éclaircissant Taches pour le visage, le cou et le décolleté, est un soin quotidien spécialement conçu pour réduire et prévenir l'apparition des taches pigmentaires face aux agressions extérieures. Sa formule avancée associe trois actifs puissants : l'extrait d'algues Arc-en-ciel, concentré cellulaire aux propriétés éclaircissantes, l'extrait de Fleur de nopal qui accélère l'exfoliation naturelle de la peau, et la niacinamide qui réduit la surproduction de mélanine responsable des taches. Son efficacité est cliniquement prouvée* avec une réduction significative de 27,4% de l'intensité de la couleur des taches après 56 jours d'utilisation et une amélioration de l'éclat de 13,2% sur les phototypes VI (moyenne de 4,4% sur l'ensemble des phototypes). Sa texture légère et fondante pénètre rapidement sans effet gras pour une peau visiblement plus unifiée, lumineuse et éclatante jour après jour.</g:description>
+      <g:link>https://nuhanciam.com/products/serum-eclaircissant-taches?variant=53950253891928</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-serum-eclaircissant-taches.jpg?v=1753954644</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>48.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
+      <g:product_type>Visage</g:product_type>
+      <g:gtin>3664448000410</g:gtin>
+      <g:mpn>046</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:shipping_weight>0.162 kg</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-SerumEclaircissantTaches.jpg?v=1743509718</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/SERUMECLAIRCISSANTETACHES.png?v=1743509718</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/anti-taches-puissance4_1.jpg?v=1743509718</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-serum-eclaircissant-taches-_-_Nuhanciam.jpg?v=1759940673</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>14810757890392</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Visage</g:custom_label_1>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
