@@ -5,35 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 20 Apr 2026 11:06:37 +0000</lastBuildDate>
-    <item>
-      <g:id>252036</g:id>
-      <g:title>Baume Corps Réparateur Intense - 2x500 ml</g:title>
-      <g:description>L'efficacité d'une formule riche en actifs hydratants et nourrissants pour une peau souple, lumineuse et apaisée. La texture onctueuse de ce Baume Corps Réparateur Intense anti-démangeaisons procure un confort en parfaite affinité avec les besoins des peaux sèches à très sèches.</g:description>
-      <g:link>https://nuhanciam.com/products/baume-reparateur-intense?variant=57082100875608</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-baume-corps-reparateur-hydratant-nourrisant.jpg?v=1733829961</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>72.00 EUR</g:price>
-      <g:brand>Nuhanciam</g:brand>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
-      <g:product_type>Corps</g:product_type>
-      <g:mpn>252036</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>68.40 EUR</g:sale_price>
-      <g:shipping_weight>0.559 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/baume-corporel-naturel-beurre-de-karite.png?v=1733829961</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/baume-corps-peau-tres-seche-anti-demangeaison-grattage.webp?v=1733829961</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-baume-corps_-_Nuhanciam.jpg?v=1759940766</g:additional_image_link>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:item_group_id>9352591671640</g:item_group_id>
-      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
-      <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches</g:custom_label_4>
-    </item>
+    <lastBuildDate>Tue, 21 Apr 2026 10:50:12 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -59,6 +31,34 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>regular</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>252036</g:id>
+      <g:title>Baume Corps Réparateur Intense - 2x500 ml</g:title>
+      <g:description>L'efficacité d'une formule riche en actifs hydratants et nourrissants pour une peau souple, lumineuse et apaisée. La texture onctueuse de ce Baume Corps Réparateur Intense anti-démangeaisons procure un confort en parfaite affinité avec les besoins des peaux sèches à très sèches.</g:description>
+      <g:link>https://nuhanciam.com/products/baume-reparateur-intense?variant=57082100875608</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-baume-corps-reparateur-hydratant-nourrisant.jpg?v=1733829961</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>72.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
+      <g:product_type>Corps</g:product_type>
+      <g:mpn>252036</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>68.40 EUR</g:sale_price>
+      <g:shipping_weight>0.559 kg</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/baume-corporel-naturel-beurre-de-karite.png?v=1733829961</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/baume-corps-peau-tres-seche-anti-demangeaison-grattage.webp?v=1733829961</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-baume-corps_-_Nuhanciam.jpg?v=1759940766</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>9352591671640</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Corps</g:custom_label_1>
+      <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches</g:custom_label_4>
     </item>
@@ -89,39 +89,6 @@
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches</g:custom_label_4>
-    </item>
-    <item>
-      <g:id>263009</g:id>
-      <g:title>Baume Émollient Apaisant Pour Peaux à Tendance Atopique - 3x500 ml</g:title>
-      <g:description>Baume apaisant pour les peaux atteintes de dermatite atopique. Il apaise les grattages dès la première application, hydrate intensément pendant 48H et répare la barrière cutanée fragilisée. Formulé avec des actifs naturels ciblés — Ophiopogon Japonicus, complexe Oméga 3,6,9 et cires végétales. Pour toute la famille, dès la naissance !</g:description>
-      <g:link>https://nuhanciam.com/products/baume-dermatite-atopique?variant=56894561517912</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Baume-emollientx3.jpg?v=1776184947</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>108.00 EUR</g:price>
-      <g:brand>Nuhanciam</g:brand>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
-      <g:product_type>Corps</g:product_type>
-      <g:mpn>263009</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>91.80 EUR</g:sale_price>
-      <g:shipping_weight>0.538 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/2_92164ada-5035-4a2a-80a0-1e9f43e93587.jpg?v=1774632932</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/4_c93bfdf2-e73f-458f-b3db-e5d42be1613f.jpg?v=1774632932</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3_bc1234f2-1a7d-4b1c-9d5b-0cd3dac40e8f.jpg?v=1774632932</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam7.jpg?v=1776184947</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/8.jpg?v=1776184947</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/5_cdd183ce-d833-4aec-8550-65bd7687a84d.jpg?v=1776184947</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/9_8994dc7c-862d-428b-a33d-8d7251828915.jpg?v=1776184947</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Baume-emollientx2_5d0fa8f4-8b99-42c0-9d4e-50777cc3fed4.jpg?v=1776184947</g:additional_image_link>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:item_group_id>15460443390296</g:item_group_id>
-      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
-      <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches, Soin corps</g:custom_label_4>
     </item>
     <item>
       <g:id>051</g:id>
@@ -181,6 +148,39 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/5_cdd183ce-d833-4aec-8550-65bd7687a84d.jpg?v=1776184947</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/9_8994dc7c-862d-428b-a33d-8d7251828915.jpg?v=1776184947</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Baume-emollientx3.jpg?v=1776184947</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>15460443390296</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Corps</g:custom_label_1>
+      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches, Soin corps</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>263009</g:id>
+      <g:title>Baume Émollient Apaisant Pour Peaux à Tendance Atopique - 3x500 ml</g:title>
+      <g:description>Baume apaisant pour les peaux atteintes de dermatite atopique. Il apaise les grattages dès la première application, hydrate intensément pendant 48H et répare la barrière cutanée fragilisée. Formulé avec des actifs naturels ciblés — Ophiopogon Japonicus, complexe Oméga 3,6,9 et cires végétales. Pour toute la famille, dès la naissance !</g:description>
+      <g:link>https://nuhanciam.com/products/baume-dermatite-atopique?variant=56894561517912</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Baume-emollientx3.jpg?v=1776184947</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>108.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
+      <g:product_type>Corps</g:product_type>
+      <g:mpn>263009</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>91.80 EUR</g:sale_price>
+      <g:shipping_weight>0.538 kg</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/2_92164ada-5035-4a2a-80a0-1e9f43e93587.jpg?v=1774632932</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/4_c93bfdf2-e73f-458f-b3db-e5d42be1613f.jpg?v=1774632932</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/3_bc1234f2-1a7d-4b1c-9d5b-0cd3dac40e8f.jpg?v=1774632932</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam7.jpg?v=1776184947</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/8.jpg?v=1776184947</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/5_cdd183ce-d833-4aec-8550-65bd7687a84d.jpg?v=1776184947</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/9_8994dc7c-862d-428b-a33d-8d7251828915.jpg?v=1776184947</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Baume-emollientx2_5d0fa8f4-8b99-42c0-9d4e-50777cc3fed4.jpg?v=1776184947</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15460443390296</g:item_group_id>
@@ -269,20 +269,20 @@
       <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
-      <g:id>253045</g:id>
-      <g:title>Contour Des Yeux - 3x15 ml</g:title>
+      <g:id>017</g:id>
+      <g:title>Contour Des Yeux - 15 ml</g:title>
       <g:description>Associant efficacité et respect de la fragilité de la peau du contour de l'œil, ce soin Contour des Yeux réunit 5 actifs d'origine naturelle aux performances complémentaires pour agir efficacement sur tous les facteurs à l'origine des cernes noires et bleus, et des poches.</g:description>
-      <g:link>https://nuhanciam.com/products/contour-des-yeux?variant=57082254655832</g:link>
+      <g:link>https://nuhanciam.com/products/contour-des-yeux?variant=47320116298072</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meileur-contour-des-yeux.jpg?v=1753954533</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>93.00 EUR</g:price>
+      <g:price>31.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Visage</g:product_type>
-      <g:mpn>253045</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>79.05 EUR</g:sale_price>
+      <g:gtin>36644 4800014 4</g:gtin>
+      <g:mpn>017</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:shipping_weight>0.031 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Contourdesyeux_13c1d368-a1f9-46e2-87e8-ffbe1e4a2393.png?v=1753797069</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -290,7 +290,7 @@
       <g:item_group_id>8816120103256</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Anti-taches, Contours des yeux, Visage</g:custom_label_4>
     </item>
@@ -321,20 +321,20 @@
       <g:custom_label_4>Anti-taches, Contours des yeux, Visage</g:custom_label_4>
     </item>
     <item>
-      <g:id>017</g:id>
-      <g:title>Contour Des Yeux - 15 ml</g:title>
+      <g:id>253045</g:id>
+      <g:title>Contour Des Yeux - 3x15 ml</g:title>
       <g:description>Associant efficacité et respect de la fragilité de la peau du contour de l'œil, ce soin Contour des Yeux réunit 5 actifs d'origine naturelle aux performances complémentaires pour agir efficacement sur tous les facteurs à l'origine des cernes noires et bleus, et des poches.</g:description>
-      <g:link>https://nuhanciam.com/products/contour-des-yeux?variant=47320116298072</g:link>
+      <g:link>https://nuhanciam.com/products/contour-des-yeux?variant=57082254655832</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meileur-contour-des-yeux.jpg?v=1753954533</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>31.00 EUR</g:price>
+      <g:price>93.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
       <g:product_type>Visage</g:product_type>
-      <g:gtin>36644 4800014 4</g:gtin>
-      <g:mpn>017</g:mpn>
-      <g:identifier_exists>yes</g:identifier_exists>
+      <g:mpn>253045</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>79.05 EUR</g:sale_price>
       <g:shipping_weight>0.031 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Contourdesyeux_13c1d368-a1f9-46e2-87e8-ffbe1e4a2393.png?v=1753797069</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -342,24 +342,25 @@
       <g:item_group_id>8816120103256</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>regular</g:custom_label_2>
+      <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Anti-taches, Contours des yeux, Visage</g:custom_label_4>
     </item>
     <item>
-      <g:id>shopify_57082015908184</g:id>
-      <g:title>Crème Éclaircissante Taches - 3x50 ml</g:title>
+      <g:id>034</g:id>
+      <g:title>Crème Éclaircissante Taches - 50 ML</g:title>
       <g:description>La Crème Éclaircissante Taches pour le visage et le cou agit sur tous les types de taches pigmentaires brunes (irritation, soleil, vieillissement). Spécialement conçue pour répondre aux besoins des peaux noires à mates, elle est tout autant adaptée aux peaux plus claires. Les meilleurs ingrédients ont été sélectionnés pour leur capacité à cibler et traiter l'hyperpigmentation tout en respectant l'équilibre naturel de la peau. Formulée à partir d'actifs d’origine naturelle, cette crème anti-taches offre une action éclaircissante douce et prolongée et se distingue par sa formulation innovante, alliant science et naturalité.</g:description>
-      <g:link>https://nuhanciam.com/products/creme-eclaircissante-taches?variant=57082015908184</g:link>
+      <g:link>https://nuhanciam.com/products/creme-eclaircissante-taches?variant=49874859295064</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-creme-eclaircissante-taches.jpg?v=1753955059</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>102.00 EUR</g:price>
+      <g:price>34.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>86.70 EUR</g:sale_price>
+      <g:gtin>3664448000304</g:gtin>
+      <g:mpn>034</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:shipping_weight>0.072 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CremeEclaircissanteTaches.png?v=1753797184</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -367,7 +368,7 @@
       <g:item_group_id>9985642201432</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Anti-taches, Crèmes &amp; Fluides, Nouveauté, Visage</g:custom_label_4>
     </item>
@@ -398,20 +399,19 @@
       <g:custom_label_4>Anti-taches, Crèmes &amp; Fluides, Nouveauté, Visage</g:custom_label_4>
     </item>
     <item>
-      <g:id>034</g:id>
-      <g:title>Crème Éclaircissante Taches - 50 ML</g:title>
+      <g:id>shopify_57082015908184</g:id>
+      <g:title>Crème Éclaircissante Taches - 3x50 ml</g:title>
       <g:description>La Crème Éclaircissante Taches pour le visage et le cou agit sur tous les types de taches pigmentaires brunes (irritation, soleil, vieillissement). Spécialement conçue pour répondre aux besoins des peaux noires à mates, elle est tout autant adaptée aux peaux plus claires. Les meilleurs ingrédients ont été sélectionnés pour leur capacité à cibler et traiter l'hyperpigmentation tout en respectant l'équilibre naturel de la peau. Formulée à partir d'actifs d’origine naturelle, cette crème anti-taches offre une action éclaircissante douce et prolongée et se distingue par sa formulation innovante, alliant science et naturalité.</g:description>
-      <g:link>https://nuhanciam.com/products/creme-eclaircissante-taches?variant=49874859295064</g:link>
+      <g:link>https://nuhanciam.com/products/creme-eclaircissante-taches?variant=57082015908184</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-creme-eclaircissante-taches.jpg?v=1753955059</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>34.00 EUR</g:price>
+      <g:price>102.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
-      <g:gtin>3664448000304</g:gtin>
-      <g:mpn>034</g:mpn>
-      <g:identifier_exists>yes</g:identifier_exists>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>86.70 EUR</g:sale_price>
       <g:shipping_weight>0.072 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CremeEclaircissanteTaches.png?v=1753797184</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -419,36 +419,9 @@
       <g:item_group_id>9985642201432</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>regular</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Crèmes &amp; Fluides, Nouveauté, Visage</g:custom_label_4>
-    </item>
-    <item>
-      <g:id>253065</g:id>
-      <g:title>Crème Éclat Unifiante - 3x50 ml</g:title>
-      <g:description>Avec sa texture onctueuse et son fini doux et satiné, la Crème Éclat Unifiante est le soin quotidien à adopter par les peaux sèches à très sèches pour un teint éclatant et unifié. Effet hydratant* prolongé.</g:description>
-      <g:link>https://nuhanciam.com/products/creme-eclat-unifiante?variant=57082472694104</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-creme-eclat-unifiante-peaux-tres-seches.jpg?v=1753966685</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>117.30 EUR</g:price>
-      <g:brand>Nuhanciam</g:brand>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
-      <g:product_type>Visage</g:product_type>
-      <g:mpn>253065</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>99.71 EUR</g:sale_price>
-      <g:shipping_weight>0.073 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CremeEclatUnifiante.png?v=1753355834</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/creme-eclat-unifiante_1.jpg?v=1753355834</g:additional_image_link>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:item_group_id>8816104669528</g:item_group_id>
-      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
-      <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Crèmes &amp; Fluides, Peaux très sèches, Visage</g:custom_label_4>
+      <g:custom_label_4>Anti-taches, Crèmes &amp; Fluides, Nouveauté, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>001</g:id>
@@ -505,30 +478,31 @@
       <g:custom_label_4>Crèmes &amp; Fluides, Peaux très sèches, Visage</g:custom_label_4>
     </item>
     <item>
-      <g:id>253061</g:id>
-      <g:title>Crème Hydra Intense - 3x50 ml</g:title>
-      <g:description>Véritable concentré d’hydratation*, cette crème hydratante permet de maintenir une peau douce, souple et confortable tout au long de la journée. Sa texture fondante, agréablement parfumée, pénètre facilement et rapidement et laisse un fini satiné, non gras, non collant.</g:description>
-      <g:link>https://nuhanciam.com/products/creme-hydra-intense?variant=57082443399512</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-creme-hydra-intense.jpg?v=1753964582</g:image_link>
+      <g:id>253065</g:id>
+      <g:title>Crème Éclat Unifiante - 3x50 ml</g:title>
+      <g:description>Avec sa texture onctueuse et son fini doux et satiné, la Crème Éclat Unifiante est le soin quotidien à adopter par les peaux sèches à très sèches pour un teint éclatant et unifié. Effet hydratant* prolongé.</g:description>
+      <g:link>https://nuhanciam.com/products/creme-eclat-unifiante?variant=57082472694104</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-creme-eclat-unifiante-peaux-tres-seches.jpg?v=1753966685</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>76.50 EUR</g:price>
+      <g:price>117.30 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
-      <g:mpn>253061</g:mpn>
+      <g:mpn>253065</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>65.02 EUR</g:sale_price>
-      <g:shipping_weight>0.082 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/creme-hydra-intense-nuhanciam_72f9a7b0-f2f9-4d5f-a289-b749d8f0c66f.png?v=1753360658</g:additional_image_link>
+      <g:sale_price>99.71 EUR</g:sale_price>
+      <g:shipping_weight>0.073 kg</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/CremeEclatUnifiante.png?v=1753355834</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/creme-eclat-unifiante_1.jpg?v=1753355834</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
-      <g:item_group_id>8816104735064</g:item_group_id>
+      <g:item_group_id>8816104669528</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Crèmes &amp; Fluides, Peaux deshydratées, Visage</g:custom_label_4>
+      <g:custom_label_4>Crèmes &amp; Fluides, Peaux très sèches, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>018</g:id>
@@ -571,6 +545,32 @@
       <g:mpn>252060</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>48.45 EUR</g:sale_price>
+      <g:shipping_weight>0.082 kg</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/creme-hydra-intense-nuhanciam_72f9a7b0-f2f9-4d5f-a289-b749d8f0c66f.png?v=1753360658</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>8816104735064</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Visage</g:custom_label_1>
+      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>Crèmes &amp; Fluides, Peaux deshydratées, Visage</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>253061</g:id>
+      <g:title>Crème Hydra Intense - 3x50 ml</g:title>
+      <g:description>Véritable concentré d’hydratation*, cette crème hydratante permet de maintenir une peau douce, souple et confortable tout au long de la journée. Sa texture fondante, agréablement parfumée, pénètre facilement et rapidement et laisse un fini satiné, non gras, non collant.</g:description>
+      <g:link>https://nuhanciam.com/products/creme-hydra-intense?variant=57082443399512</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-creme-hydra-intense.jpg?v=1753964582</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>76.50 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
+      <g:product_type>Visage</g:product_type>
+      <g:mpn>253061</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>65.02 EUR</g:sale_price>
       <g:shipping_weight>0.082 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/creme-hydra-intense-nuhanciam_72f9a7b0-f2f9-4d5f-a289-b749d8f0c66f.png?v=1753360658</g:additional_image_link>
       <g:age_group>adult</g:age_group>
@@ -664,32 +664,33 @@
       <g:custom_label_4>Crèmes &amp; Fluides, Solaire, Visage</g:custom_label_4>
     </item>
     <item>
-      <g:id>263005</g:id>
-      <g:title>Crème Solaire Invisible Anti Taches Brunes SPF 50+ - 3x50 ml</g:title>
+      <g:id>050</g:id>
+      <g:title>Crème Solaire Invisible Anti Taches Brunes SPF 50+ - 50 ml</g:title>
       <g:description>Le soleil est la première cause d'apparition de taches brunes, du mélasma et du vieillissement cutané prématuré. La creme solaire invisible anti tache SPF 50+ Nuhanciam change la donne : une crème solaire anti-taches à la fois protectrice et corrective, dans une texture légère, invisible et à l'effet mat. Formulée pour respecter l'environnement marin et adaptée à toute la famille. Le nouveau soin solaire de votre routine beauté grâce à son action 2-en-1 !</g:description>
-      <g:link>https://nuhanciam.com/products/creme-solaire-invisible-anti-taches?variant=56975802073432</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/SPFx3_0c63d41a-6f25-4687-9061-4e4c81de0310.jpg?v=1776184251</g:image_link>
+      <g:link>https://nuhanciam.com/products/creme-solaire-invisible-anti-taches?variant=56975729394008</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/SPFx1.jpg?v=1774449687</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>75.00 EUR</g:price>
+      <g:price>25.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Sunscreen</g:google_product_category>
       <g:product_type>Visage</g:product_type>
-      <g:mpn>263005</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>63.75 EUR</g:sale_price>
-      <g:shipping_weight>0.162 kg</g:shipping_weight>
+      <g:gtin>3664448000564</g:gtin>
+      <g:mpn>050</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:shipping_weight>0.076 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Creme_solaire_Anti-taches_v2-4.jpg?v=1775663162</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Creme_solaire_Anti-taches_v2-3.jpg?v=1775663162</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Creme_solaire_Anti-taches_v2-5.jpg?v=1775663162</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Creme_solaire_Anti-taches_v2-6.jpg?v=1776184251</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/SPFx2.jpg?v=1776184251</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/SPFx3_0c63d41a-6f25-4687-9061-4e4c81de0310.jpg?v=1776184251</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15464790983000</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Anti-taches, Solaire</g:custom_label_4>
     </item>
@@ -724,33 +725,32 @@
       <g:custom_label_4>Anti-taches, Solaire</g:custom_label_4>
     </item>
     <item>
-      <g:id>050</g:id>
-      <g:title>Crème Solaire Invisible Anti Taches Brunes SPF 50+ - 50 ml</g:title>
+      <g:id>263005</g:id>
+      <g:title>Crème Solaire Invisible Anti Taches Brunes SPF 50+ - 3x50 ml</g:title>
       <g:description>Le soleil est la première cause d'apparition de taches brunes, du mélasma et du vieillissement cutané prématuré. La creme solaire invisible anti tache SPF 50+ Nuhanciam change la donne : une crème solaire anti-taches à la fois protectrice et corrective, dans une texture légère, invisible et à l'effet mat. Formulée pour respecter l'environnement marin et adaptée à toute la famille. Le nouveau soin solaire de votre routine beauté grâce à son action 2-en-1 !</g:description>
-      <g:link>https://nuhanciam.com/products/creme-solaire-invisible-anti-taches?variant=56975729394008</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/SPFx1.jpg?v=1774449687</g:image_link>
+      <g:link>https://nuhanciam.com/products/creme-solaire-invisible-anti-taches?variant=56975802073432</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/SPFx3_0c63d41a-6f25-4687-9061-4e4c81de0310.jpg?v=1776184251</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>25.00 EUR</g:price>
+      <g:price>75.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Sunscreen</g:google_product_category>
       <g:product_type>Visage</g:product_type>
-      <g:gtin>3664448000564</g:gtin>
-      <g:mpn>050</g:mpn>
-      <g:identifier_exists>yes</g:identifier_exists>
-      <g:shipping_weight>0.067 kg</g:shipping_weight>
+      <g:mpn>263005</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>63.75 EUR</g:sale_price>
+      <g:shipping_weight>0.162 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Creme_solaire_Anti-taches_v2-4.jpg?v=1775663162</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Creme_solaire_Anti-taches_v2-3.jpg?v=1775663162</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Creme_solaire_Anti-taches_v2-5.jpg?v=1775663162</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Creme_solaire_Anti-taches_v2-6.jpg?v=1776184251</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/SPFx2.jpg?v=1776184251</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/SPFx3_0c63d41a-6f25-4687-9061-4e4c81de0310.jpg?v=1776184251</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>15464790983000</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>regular</g:custom_label_2>
+      <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Anti-taches, Solaire</g:custom_label_4>
     </item>
@@ -1119,6 +1119,33 @@
       <g:custom_label_4>Anti-taches, bundle, Routines</g:custom_label_4>
     </item>
     <item>
+      <g:id>005</g:id>
+      <g:title>Eau Micellaire Démaquillante - 200 ml</g:title>
+      <g:description>Cette Eau Micellaire Démaquillante bénéficie d'une formule respectueuse de la peau pour une triple efficacité démaquillante, adoucissante et clarifiante. Texture douce, non grasse, sans rinçage.</g:description>
+      <g:link>https://nuhanciam.com/products/eau-micellaire-demaquillante?variant=47317530018136</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-eau-micellaire-demaquillante-hydratante.jpg?v=1733757177</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>19.30 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
+      <g:product_type>Visage</g:product_type>
+      <g:gtin>34013 2085130 8</g:gtin>
+      <g:mpn>005</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:shipping_weight>0.271 kg</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/eau-micellaire-demaquillante-naturelle-efficace.png?v=1733757197</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/eau-micellaire-visage_-_Nuhanciam.jpg?v=1759941423</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>8815374991704</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Visage</g:custom_label_1>
+      <g:custom_label_2>regular</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
+    </item>
+    <item>
       <g:id>252074</g:id>
       <g:title>Eau Micellaire Démaquillante - 2x200 ml</g:title>
       <g:description>Cette Eau Micellaire Démaquillante bénéficie d'une formule respectueuse de la peau pour une triple efficacité démaquillante, adoucissante et clarifiante. Texture douce, non grasse, sans rinçage.</g:description>
@@ -1173,47 +1200,20 @@
       <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
-      <g:id>005</g:id>
-      <g:title>Eau Micellaire Démaquillante - 200 ml</g:title>
-      <g:description>Cette Eau Micellaire Démaquillante bénéficie d'une formule respectueuse de la peau pour une triple efficacité démaquillante, adoucissante et clarifiante. Texture douce, non grasse, sans rinçage.</g:description>
-      <g:link>https://nuhanciam.com/products/eau-micellaire-demaquillante?variant=47317530018136</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-eau-micellaire-demaquillante-hydratante.jpg?v=1733757177</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>19.30 EUR</g:price>
-      <g:brand>Nuhanciam</g:brand>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
-      <g:product_type>Visage</g:product_type>
-      <g:gtin>34013 2085130 8</g:gtin>
-      <g:mpn>005</g:mpn>
-      <g:identifier_exists>yes</g:identifier_exists>
-      <g:shipping_weight>0.271 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/eau-micellaire-demaquillante-naturelle-efficace.png?v=1733757197</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/eau-micellaire-visage_-_Nuhanciam.jpg?v=1759941423</g:additional_image_link>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:item_group_id>8815374991704</g:item_group_id>
-      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
-      <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>regular</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
-    </item>
-    <item>
-      <g:id>253059</g:id>
-      <g:title>Émulsion Anti-imperfections - 3x30 ml</g:title>
+      <g:id>013</g:id>
+      <g:title>Émulsion Anti-imperfections - 30 ml</g:title>
       <g:description>L'Émulsion Anti-Imperfections améliore visiblement les peaux mixtes à grasses et les peaux à tendance acnéique. Elle régule efficacement la production de sébum, unifie et matifie le teint. Sa texture légère, non comédogène, laisse un fini mat parfait.</g:description>
-      <g:link>https://nuhanciam.com/products/emulsion-anti-imperfections?variant=57082430062936</g:link>
+      <g:link>https://nuhanciam.com/products/emulsion-anti-imperfections?variant=47320015962456</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-emulsion-anti-imperfections.jpg?v=1753956363</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>67.50 EUR</g:price>
+      <g:price>22.50 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
-      <g:mpn>253059</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>57.38 EUR</g:sale_price>
+      <g:gtin>3401360213579</g:gtin>
+      <g:mpn>013</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:shipping_weight>0.061 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/EmulsionAntiimperfections.png?v=1753355564</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/REF013-EMULSIONANTIIMPERFECTIONSHD2025.png?v=1753355564</g:additional_image_link>
@@ -1222,7 +1222,7 @@
       <g:item_group_id>8816104800600</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Visage</g:custom_label_4>
     </item>
@@ -1254,53 +1254,26 @@
       <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Visage</g:custom_label_4>
     </item>
     <item>
-      <g:id>013</g:id>
-      <g:title>Émulsion Anti-imperfections - 30 ml</g:title>
+      <g:id>253059</g:id>
+      <g:title>Émulsion Anti-imperfections - 3x30 ml</g:title>
       <g:description>L'Émulsion Anti-Imperfections améliore visiblement les peaux mixtes à grasses et les peaux à tendance acnéique. Elle régule efficacement la production de sébum, unifie et matifie le teint. Sa texture légère, non comédogène, laisse un fini mat parfait.</g:description>
-      <g:link>https://nuhanciam.com/products/emulsion-anti-imperfections?variant=47320015962456</g:link>
+      <g:link>https://nuhanciam.com/products/emulsion-anti-imperfections?variant=57082430062936</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-emulsion-anti-imperfections.jpg?v=1753956363</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>22.50 EUR</g:price>
+      <g:price>67.50 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
-      <g:gtin>340136021357 9</g:gtin>
-      <g:mpn>013</g:mpn>
-      <g:identifier_exists>yes</g:identifier_exists>
+      <g:mpn>253059</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>57.38 EUR</g:sale_price>
       <g:shipping_weight>0.061 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/EmulsionAntiimperfections.png?v=1753355564</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/REF013-EMULSIONANTIIMPERFECTIONSHD2025.png?v=1753355564</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:item_group_id>8816104800600</g:item_group_id>
-      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
-      <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>regular</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Visage</g:custom_label_4>
-    </item>
-    <item>
-      <g:id>252062</g:id>
-      <g:title>Fluide Matifiant Unifiant - 2x40 ml</g:title>
-      <g:description>Le soin quotidien matifiant, équilibrant et unifiant pour les peaux mixtes à grasses. Il rend la peau du visage nette et douce toute la journée. Le teint est unifié et matifié, les pores resserrés. Ce Fluide Matifiant Unifiant bénéficie d'une texture fine qui facilite l'application et la tenue du maquillage. Il est non comédogène.</g:description>
-      <g:link>https://nuhanciam.com/products/fluide-matifiant-unifiant?variant=57082459029848</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-fluide-matifiant-unifiant-hydratant.jpg?v=1753962617</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>68.00 EUR</g:price>
-      <g:brand>Nuhanciam</g:brand>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
-      <g:product_type>Visage</g:product_type>
-      <g:mpn>252062</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>64.60 EUR</g:sale_price>
-      <g:shipping_weight>0.072 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FluideMatifiantUnifiant.png?v=1753798439</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/fluide-matifiant-unifiant_1.jpg?v=1753798439</g:additional_image_link>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:item_group_id>8816104702296</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
@@ -1335,6 +1308,33 @@
       <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Visage</g:custom_label_4>
     </item>
     <item>
+      <g:id>252062</g:id>
+      <g:title>Fluide Matifiant Unifiant - 2x40 ml</g:title>
+      <g:description>Le soin quotidien matifiant, équilibrant et unifiant pour les peaux mixtes à grasses. Il rend la peau du visage nette et douce toute la journée. Le teint est unifié et matifié, les pores resserrés. Ce Fluide Matifiant Unifiant bénéficie d'une texture fine qui facilite l'application et la tenue du maquillage. Il est non comédogène.</g:description>
+      <g:link>https://nuhanciam.com/products/fluide-matifiant-unifiant?variant=57082459029848</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-fluide-matifiant-unifiant-hydratant.jpg?v=1753962617</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>68.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
+      <g:product_type>Visage</g:product_type>
+      <g:mpn>252062</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>64.60 EUR</g:sale_price>
+      <g:shipping_weight>0.072 kg</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FluideMatifiantUnifiant.png?v=1753798439</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/fluide-matifiant-unifiant_1.jpg?v=1753798439</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>8816104702296</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Visage</g:custom_label_1>
+      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Visage</g:custom_label_4>
+    </item>
+    <item>
       <g:id>253063</g:id>
       <g:title>Fluide Matifiant Unifiant - 3x40ml</g:title>
       <g:description>Le soin quotidien matifiant, équilibrant et unifiant pour les peaux mixtes à grasses. Il rend la peau du visage nette et douce toute la journée. Le teint est unifié et matifié, les pores resserrés. Ce Fluide Matifiant Unifiant bénéficie d'une texture fine qui facilite l'application et la tenue du maquillage. Il est non comédogène.</g:description>
@@ -1362,20 +1362,20 @@
       <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Visage</g:custom_label_4>
     </item>
     <item>
-      <g:id>253057</g:id>
-      <g:title>Gel Douche Douceur - 3x500 ml</g:title>
+      <g:id>019</g:id>
+      <g:title>Gel Douche Douceur - 500 ml</g:title>
       <g:description>Ce Gel Douche Douceur sans savon bénéficie d'une formule onctueuse, légèrement parfumée, enrichie en actif hydratant* 100% d’origine végétale pour le confort et le respect de la peau.</g:description>
-      <g:link>https://nuhanciam.com/products/gel-douche-douceur?variant=57082419249496</g:link>
+      <g:link>https://nuhanciam.com/products/gel-douche-douceur?variant=47320016060760</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-gel-douche-douceur.jpg?v=1753965738</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>46.50 EUR</g:price>
+      <g:price>15.50 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
-      <g:mpn>253057</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>39.52 EUR</g:sale_price>
+      <g:gtin>36644 4800003 8</g:gtin>
+      <g:mpn>019</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:shipping_weight>0.667 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-sans-savon-naturel.png?v=1753354050</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-hydratant-peau-seche.webp?v=1753354050</g:additional_image_link>
@@ -1384,7 +1384,7 @@
       <g:item_group_id>8816104866136</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Corps, Gel douche, Peaux deshydratées</g:custom_label_4>
     </item>
@@ -1416,20 +1416,20 @@
       <g:custom_label_4>Corps, Gel douche, Peaux deshydratées</g:custom_label_4>
     </item>
     <item>
-      <g:id>019</g:id>
-      <g:title>Gel Douche Douceur - 500 ml</g:title>
+      <g:id>253057</g:id>
+      <g:title>Gel Douche Douceur - 3x500 ml</g:title>
       <g:description>Ce Gel Douche Douceur sans savon bénéficie d'une formule onctueuse, légèrement parfumée, enrichie en actif hydratant* 100% d’origine végétale pour le confort et le respect de la peau.</g:description>
-      <g:link>https://nuhanciam.com/products/gel-douche-douceur?variant=47320016060760</g:link>
+      <g:link>https://nuhanciam.com/products/gel-douche-douceur?variant=57082419249496</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-gel-douche-douceur.jpg?v=1753965738</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>15.50 EUR</g:price>
+      <g:price>46.50 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
-      <g:gtin>36644 4800003 8</g:gtin>
-      <g:mpn>019</g:mpn>
-      <g:identifier_exists>yes</g:identifier_exists>
+      <g:mpn>253057</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>39.52 EUR</g:sale_price>
       <g:shipping_weight>0.667 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-sans-savon-naturel.png?v=1753354050</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gel-douche-hydratant-peau-seche.webp?v=1753354050</g:additional_image_link>
@@ -1438,35 +1438,9 @@
       <g:item_group_id>8816104866136</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>regular</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Corps, Gel douche, Peaux deshydratées</g:custom_label_4>
-    </item>
-    <item>
-      <g:id>253078</g:id>
-      <g:title>Gel Nettoyant Dermo-purifiant - 2x165 ml</g:title>
-      <g:description>Ce Gel Nettoyant Dermo-Purifiant non desséchant et moussant laisse la peau du visage nette et confortable. Idéal pour les peaux mixtes à grasses, il libère les pores, élimine les impuretés et l’excès de sébum. Sans savon, non parfumé.</g:description>
-      <g:link>https://nuhanciam.com/products/gel-nettoyant-dermo-purifiant?variant=57082603831640</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-gel-dermo-purifiant-imperfections.jpg?v=1753955750</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>27.00 EUR</g:price>
-      <g:brand>Nuhanciam</g:brand>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
-      <g:product_type>Visage</g:product_type>
-      <g:mpn>253078</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>25.65 EUR</g:sale_price>
-      <g:shipping_weight>0.239 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Gelnettoyant.png?v=1738248225</g:additional_image_link>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:item_group_id>8815351562584</g:item_group_id>
-      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
-      <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Démaquillants &amp; Nettoyants, Visage</g:custom_label_4>
+      <g:custom_label_4>Corps, Gel douche, Peaux deshydratées</g:custom_label_4>
     </item>
     <item>
       <g:id>014</g:id>
@@ -1491,6 +1465,32 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>regular</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>Anti-imperfections, Démaquillants &amp; Nettoyants, Visage</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>253078</g:id>
+      <g:title>Gel Nettoyant Dermo-purifiant - 2x165 ml</g:title>
+      <g:description>Ce Gel Nettoyant Dermo-Purifiant non desséchant et moussant laisse la peau du visage nette et confortable. Idéal pour les peaux mixtes à grasses, il libère les pores, élimine les impuretés et l’excès de sébum. Sans savon, non parfumé.</g:description>
+      <g:link>https://nuhanciam.com/products/gel-nettoyant-dermo-purifiant?variant=57082603831640</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-gel-dermo-purifiant-imperfections.jpg?v=1753955750</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>27.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
+      <g:product_type>Visage</g:product_type>
+      <g:mpn>253078</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>25.65 EUR</g:sale_price>
+      <g:shipping_weight>0.239 kg</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Gelnettoyant.png?v=1738248225</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>8815351562584</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Visage</g:custom_label_1>
+      <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Anti-imperfections, Démaquillants &amp; Nettoyants, Visage</g:custom_label_4>
     </item>
@@ -1689,39 +1689,6 @@
       <g:custom_label_4>Masques &amp; Gommages, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
     <item>
-      <g:id>262002</g:id>
-      <g:title>Huile De Douche Émolliente Lavante - 2x500 ml</g:title>
-      <g:description>Huile de douche émolliente spécialement conçue pour les peaux sèches, sensibles et à tendance atopique. Elle nettoie en douceur tout en préservant le film hydrolipidique, réduit les tiraillements et laisse la peau douce et confortable dès la sortie de la douche et jusqu'à 8h. Pour toute la famille, dès la naissance !</g:description>
-      <g:link>https://nuhanciam.com/products/huile-de-douche-emolliente?variant=56974393344344</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douchex2.jpg?v=1776184921</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>31.00 EUR</g:price>
-      <g:brand>Nuhanciam</g:brand>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Oils</g:google_product_category>
-      <g:product_type>Corps</g:product_type>
-      <g:mpn>262002</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>29.45 EUR</g:sale_price>
-      <g:shipping_weight>0.667 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam2.jpg?v=1775148331</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam3.jpg?v=1775148331</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam4.jpg?v=1776184470</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam1.jpg?v=1776184921</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam7.jpg?v=1776184947</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam8.jpg?v=1776184921</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam9.jpg?v=1776184921</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam5.jpg?v=1776184921</g:additional_image_link>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:item_group_id>15516670591320</g:item_group_id>
-      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
-      <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Corps, Gel douche, Huile de soin, Peaux très sèches</g:custom_label_4>
-    </item>
-    <item>
       <g:id>052</g:id>
       <g:title>Huile De Douche Émolliente Lavante - 500 ml</g:title>
       <g:description>Huile de douche émolliente spécialement conçue pour les peaux sèches, sensibles et à tendance atopique. Elle nettoie en douceur tout en préservant le film hydrolipidique, réduit les tiraillements et laisse la peau douce et confortable dès la sortie de la douche et jusqu'à 8h. Pour toute la famille, dès la naissance !</g:description>
@@ -1752,6 +1719,39 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>regular</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>Corps, Gel douche, Huile de soin, Peaux très sèches</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>262002</g:id>
+      <g:title>Huile De Douche Émolliente Lavante - 2x500 ml</g:title>
+      <g:description>Huile de douche émolliente spécialement conçue pour les peaux sèches, sensibles et à tendance atopique. Elle nettoie en douceur tout en préservant le film hydrolipidique, réduit les tiraillements et laisse la peau douce et confortable dès la sortie de la douche et jusqu'à 8h. Pour toute la famille, dès la naissance !</g:description>
+      <g:link>https://nuhanciam.com/products/huile-de-douche-emolliente?variant=56974393344344</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douchex2.jpg?v=1776184921</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>31.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Oils</g:google_product_category>
+      <g:product_type>Corps</g:product_type>
+      <g:mpn>262002</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>29.45 EUR</g:sale_price>
+      <g:shipping_weight>0.667 kg</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam2.jpg?v=1775148331</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam3.jpg?v=1775148331</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam4.jpg?v=1776184470</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam1.jpg?v=1776184921</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam7.jpg?v=1776184947</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam8.jpg?v=1776184921</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam9.jpg?v=1776184921</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Huile-douche-emolliente-Nuhanciam5.jpg?v=1776184921</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>15516670591320</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Corps</g:custom_label_1>
+      <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Corps, Gel douche, Huile de soin, Peaux très sèches</g:custom_label_4>
     </item>
@@ -1788,34 +1788,6 @@
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Corps, Gel douche, Huile de soin, Peaux très sèches</g:custom_label_4>
-    </item>
-    <item>
-      <g:id>253051</g:id>
-      <g:title>Huile Soin Métamorphose - 3x100 ml</g:title>
-      <g:description>L’alchimie de 4 huiles végétales précieuses pour adoucir et sublimer le corps ou les cheveux. La texture huile fine, mi-sèche, permet de s'habiller rapidement.</g:description>
-      <g:link>https://nuhanciam.com/products/huile-soin-metamorphose?variant=57082339787096</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-huile-soin-metamorphose-corps-cheveux.jpg?v=1753966759</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>81.00 EUR</g:price>
-      <g:brand>Nuhanciam</g:brand>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Oils</g:google_product_category>
-      <g:product_type>Corps</g:product_type>
-      <g:mpn>253051</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>68.85 EUR</g:sale_price>
-      <g:shipping_weight>0.173 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/melange-huiles-naturel-corps-cheveux.png?v=1733830264</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/huiles-nourrissantes-peau-tres-seche.webp?v=1733830264</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/huile-seche-nuhanciam_-_Nuhanciam.jpg?v=1759941341</g:additional_image_link>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:item_group_id>8816105095512</g:item_group_id>
-      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
-      <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Corps, Huile de soin, Peaux très sèches</g:custom_label_4>
     </item>
     <item>
       <g:id>010</g:id>
@@ -1860,6 +1832,34 @@
       <g:mpn>252050</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>51.30 EUR</g:sale_price>
+      <g:shipping_weight>0.173 kg</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/melange-huiles-naturel-corps-cheveux.png?v=1733830264</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/huiles-nourrissantes-peau-tres-seche.webp?v=1733830264</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/huile-seche-nuhanciam_-_Nuhanciam.jpg?v=1759941341</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>8816105095512</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Corps</g:custom_label_1>
+      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>Corps, Huile de soin, Peaux très sèches</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>253051</g:id>
+      <g:title>Huile Soin Métamorphose - 3x100 ml</g:title>
+      <g:description>L’alchimie de 4 huiles végétales précieuses pour adoucir et sublimer le corps ou les cheveux. La texture huile fine, mi-sèche, permet de s'habiller rapidement.</g:description>
+      <g:link>https://nuhanciam.com/products/huile-soin-metamorphose?variant=57082339787096</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-huile-soin-metamorphose-corps-cheveux.jpg?v=1753966759</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>81.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Oils</g:google_product_category>
+      <g:product_type>Corps</g:product_type>
+      <g:mpn>253051</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>68.85 EUR</g:sale_price>
       <g:shipping_weight>0.173 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/melange-huiles-naturel-corps-cheveux.png?v=1733830264</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/huiles-nourrissantes-peau-tres-seche.webp?v=1733830264</g:additional_image_link>
@@ -1958,6 +1958,33 @@
       <g:custom_label_4>Anti-taches, Corps, Laits &amp; Baumes</g:custom_label_4>
     </item>
     <item>
+      <g:id>015</g:id>
+      <g:title>Lait Corps Hydratant 24 Heures - 500 ml</g:title>
+      <g:description>La complémentarité des actifs de ce lait corporel apporte 24h d’hydratation* intense, souplesse et protection pour une peau lisse et veloutée. Une efficacité visible et ressentie. Le plaisir d'un parfum délicat et d'une texture fondante sans effet gras ni collant, vite absorbée pour s'habiller sans attendre.</g:description>
+      <g:link>https://nuhanciam.com/products/hydratant-24-heures?variant=47320016814424</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-lait-corps-hydratant.jpg?v=1753966594</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>26.50 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
+      <g:product_type>Corps</g:product_type>
+      <g:gtin>34013 6022688 3</g:gtin>
+      <g:mpn>015</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:shipping_weight>0.633 kg</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-hydratant-corps-naturel-vegan.png?v=1753354117</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-corporel-hydratation-continue.webp?v=1753354117</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>8816104997208</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Corps</g:custom_label_1>
+      <g:custom_label_2>regular</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux deshydratées</g:custom_label_4>
+    </item>
+    <item>
       <g:id>252052</g:id>
       <g:title>Lait Corps Hydratant 24 Heures - 2x500 ml</g:title>
       <g:description>La complémentarité des actifs de ce lait corporel apporte 24h d’hydratation* intense, souplesse et protection pour une peau lisse et veloutée. Une efficacité visible et ressentie. Le plaisir d'un parfum délicat et d'une texture fondante sans effet gras ni collant, vite absorbée pour s'habiller sans attendre.</g:description>
@@ -2008,33 +2035,6 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux deshydratées</g:custom_label_4>
-    </item>
-    <item>
-      <g:id>015</g:id>
-      <g:title>Lait Corps Hydratant 24 Heures - 500 ml</g:title>
-      <g:description>La complémentarité des actifs de ce lait corporel apporte 24h d’hydratation* intense, souplesse et protection pour une peau lisse et veloutée. Une efficacité visible et ressentie. Le plaisir d'un parfum délicat et d'une texture fondante sans effet gras ni collant, vite absorbée pour s'habiller sans attendre.</g:description>
-      <g:link>https://nuhanciam.com/products/hydratant-24-heures?variant=47320016814424</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-lait-corps-hydratant.jpg?v=1753966594</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>26.50 EUR</g:price>
-      <g:brand>Nuhanciam</g:brand>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
-      <g:product_type>Corps</g:product_type>
-      <g:gtin>34013 6022688 3</g:gtin>
-      <g:mpn>015</g:mpn>
-      <g:identifier_exists>yes</g:identifier_exists>
-      <g:shipping_weight>0.633 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-hydratant-corps-naturel-vegan.png?v=1753354117</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-corporel-hydratation-continue.webp?v=1753354117</g:additional_image_link>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:item_group_id>8816104997208</g:item_group_id>
-      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
-      <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux deshydratées</g:custom_label_4>
     </item>
@@ -2307,6 +2307,33 @@
       <g:custom_label_4>Démaquillants &amp; Nettoyants, Lissage &amp; Fermeté, Visage</g:custom_label_4>
     </item>
     <item>
+      <g:id>006</g:id>
+      <g:title>Mousse Nettoyante Démaquillante Douce - 170 ml</g:title>
+      <g:description>Une Mousse Nettoyante Démaquillante Douce pour le visage et les yeux qui associe 3 actifs aux propriétés complémentaires pour laisser la peau nette, éclatante et confortable après le rinçage. Texture mousse dense et onctueuse.</g:description>
+      <g:link>https://nuhanciam.com/products/mousse-nettoyante-douce?variant=47316910375256</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-mousse-nettoyante-demaquillante-douce-visage.jpg?v=1733760350</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>21.90 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
+      <g:product_type>Visage</g:product_type>
+      <g:gtin>34013 4076773 3</g:gtin>
+      <g:mpn>006</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:shipping_weight>0.266 kg</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/nettoyant-moussant-visage-naturel-sans-savon.png?v=1764751220</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse-nettoyante-douce_1.jpg?v=1764751220</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>8809905619288</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Visage</g:custom_label_1>
+      <g:custom_label_2>regular</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
+    </item>
+    <item>
       <g:id>252080</g:id>
       <g:title>Mousse Nettoyante Démaquillante Douce - 2x170 ml</g:title>
       <g:description>Une Mousse Nettoyante Démaquillante Douce pour le visage et les yeux qui associe 3 actifs aux propriétés complémentaires pour laisser la peau nette, éclatante et confortable après le rinçage. Texture mousse dense et onctueuse.</g:description>
@@ -2357,33 +2384,6 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
-    </item>
-    <item>
-      <g:id>006</g:id>
-      <g:title>Mousse Nettoyante Démaquillante Douce - 170 ml</g:title>
-      <g:description>Une Mousse Nettoyante Démaquillante Douce pour le visage et les yeux qui associe 3 actifs aux propriétés complémentaires pour laisser la peau nette, éclatante et confortable après le rinçage. Texture mousse dense et onctueuse.</g:description>
-      <g:link>https://nuhanciam.com/products/mousse-nettoyante-douce?variant=47316910375256</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-mousse-nettoyante-demaquillante-douce-visage.jpg?v=1733760350</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>21.90 EUR</g:price>
-      <g:brand>Nuhanciam</g:brand>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
-      <g:product_type>Visage</g:product_type>
-      <g:gtin>34013 4076773 3</g:gtin>
-      <g:mpn>006</g:mpn>
-      <g:identifier_exists>yes</g:identifier_exists>
-      <g:shipping_weight>0.266 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/nettoyant-moussant-visage-naturel-sans-savon.png?v=1764751220</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse-nettoyante-douce_1.jpg?v=1764751220</g:additional_image_link>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:item_group_id>8809905619288</g:item_group_id>
-      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
-      <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
     </item>
@@ -2466,6 +2466,32 @@
       <g:custom_label_4>Démaquillants &amp; Nettoyants, Peaux deshydratées, Visage</g:custom_label_4>
     </item>
     <item>
+      <g:id>040</g:id>
+      <g:title>Mousse Nettoyante Peeling - 150 ml</g:title>
+      <g:description>La Mousse Nettoyante Peeling aux AHA, pour le visage et le cou, associe nettoyage profond et exfoliation douce pour révéler une peau lumineuse et unifiée dès la première utilisation. Sa texture ultra-crémeuse et onctueuse se transforme en une mousse aérienne qui enveloppe la peau avec légèreté, tout en éliminant efficacement impuretés et excès de sébum. Enrichie en acide mandélique, un AHA doux reconnu pour lisser le grain de peau et accélérer le renouvellement cellulaire, elle affine visiblement la texture cutanée et unifie l’éclat du teint. Dès le rinçage, la peau est fraîche, parfaitement nettoyée et révèle une nouvelle lumière.• Une peau nette, unifiée et éclatante.• 100% des volontaires constatent un éclat immédiat (scorage réalisé sur 19 volontaires).• Jusqu’à +46,6% de luminosité dès la première application (test instrumental sur 22 volontaires, moyenne : +23,8% à T0).</g:description>
+      <g:link>https://nuhanciam.com/products/mousse-nettoyante-peeling?variant=54803745472856</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/moussenettoyantepeeling150ml2025.jpg?v=1758182016</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>20.50 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
+      <g:product_type>Visage</g:product_type>
+      <g:gtin>3664448000373</g:gtin>
+      <g:mpn>040</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:shipping_weight>0.162 kg</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse_nettoyante_peeling.png?v=1758209011</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>15068606005592</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Visage</g:custom_label_1>
+      <g:custom_label_2>regular</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>Anti-taches, Démaquillants &amp; Nettoyants, Visage</g:custom_label_4>
+    </item>
+    <item>
       <g:id>252024</g:id>
       <g:title>Mousse Nettoyante Peeling - 2x150 ml</g:title>
       <g:description>La Mousse Nettoyante Peeling aux AHA, pour le visage et le cou, associe nettoyage profond et exfoliation douce pour révéler une peau lumineuse et unifiée dès la première utilisation. Sa texture ultra-crémeuse et onctueuse se transforme en une mousse aérienne qui enveloppe la peau avec légèreté, tout en éliminant efficacement impuretés et excès de sébum. Enrichie en acide mandélique, un AHA doux reconnu pour lisser le grain de peau et accélérer le renouvellement cellulaire, elle affine visiblement la texture cutanée et unifie l’éclat du teint. Dès le rinçage, la peau est fraîche, parfaitement nettoyée et révèle une nouvelle lumière.• Une peau nette, unifiée et éclatante.• 100% des volontaires constatent un éclat immédiat (scorage réalisé sur 19 volontaires).• Jusqu’à +46,6% de luminosité dès la première application (test instrumental sur 22 volontaires, moyenne : +23,8% à T0).</g:description>
@@ -2518,30 +2544,31 @@
       <g:custom_label_4>Anti-taches, Démaquillants &amp; Nettoyants, Visage</g:custom_label_4>
     </item>
     <item>
-      <g:id>040</g:id>
-      <g:title>Mousse Nettoyante Peeling - 150 ml</g:title>
-      <g:description>La Mousse Nettoyante Peeling aux AHA, pour le visage et le cou, associe nettoyage profond et exfoliation douce pour révéler une peau lumineuse et unifiée dès la première utilisation. Sa texture ultra-crémeuse et onctueuse se transforme en une mousse aérienne qui enveloppe la peau avec légèreté, tout en éliminant efficacement impuretés et excès de sébum. Enrichie en acide mandélique, un AHA doux reconnu pour lisser le grain de peau et accélérer le renouvellement cellulaire, elle affine visiblement la texture cutanée et unifie l’éclat du teint. Dès le rinçage, la peau est fraîche, parfaitement nettoyée et révèle une nouvelle lumière.• Une peau nette, unifiée et éclatante.• 100% des volontaires constatent un éclat immédiat (scorage réalisé sur 19 volontaires).• Jusqu’à +46,6% de luminosité dès la première application (test instrumental sur 22 volontaires, moyenne : +23,8% à T0).</g:description>
-      <g:link>https://nuhanciam.com/products/mousse-nettoyante-peeling?variant=54803745472856</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/moussenettoyantepeeling150ml2025.jpg?v=1758182016</g:image_link>
+      <g:id>032</g:id>
+      <g:title>Mousse Nettoyante Vitamine C - 150 ml</g:title>
+      <g:description>La Mousse Nettoyante Vitamine C, pour le visage et le cou, agit comme un véritable booster d'éclat grâce à son dérivé de vitamine C stabilisé qui revitalise et illumine votre peau dès le rinçage. Sa formule enrichie en diglycérol, puissant actif hydratant, associé à une base nettoyante douce d'origine végétale, élimine efficacement les impuretés tout en laissant la peau parfaitement confortable. Texture légère et onctueuse, elle se transforme en mousse délicate au contact de l'eau pour une expérience sensorielle agréable. La peau est nette, éclatante et hydratée après chaque utilisation.</g:description>
+      <g:link>https://nuhanciam.com/products/mousse-nettoyante-revitalisante?variant=53950256709976</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-mousse-nettoyante-vitamine-C.jpg?v=1753962723</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>20.50 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
-      <g:gtin>3664448000373</g:gtin>
-      <g:mpn>040</g:mpn>
+      <g:gtin>3664448000342</g:gtin>
+      <g:mpn>032</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:shipping_weight>0.162 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse_nettoyante_peeling.png?v=1758209011</g:additional_image_link>
+      <g:shipping_weight>0.21 kg</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-MousseVitamineC.jpg?v=1764751055</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse-nettoyante-vitamine-c-eclat-de-la-peau_-_Nuhanciam.jpg?v=1764751055</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
-      <g:item_group_id>15068606005592</g:item_group_id>
+      <g:item_group_id>14810758775128</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Démaquillants &amp; Nettoyants, Visage</g:custom_label_4>
+      <g:custom_label_4>Démaquillants &amp; Nettoyants, Lissage &amp; Fermeté, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>252028</g:id>
@@ -2594,33 +2621,6 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Lissage &amp; Fermeté, Visage</g:custom_label_4>
-    </item>
-    <item>
-      <g:id>032</g:id>
-      <g:title>Mousse Nettoyante Vitamine C - 150 ml</g:title>
-      <g:description>La Mousse Nettoyante Vitamine C, pour le visage et le cou, agit comme un véritable booster d'éclat grâce à son dérivé de vitamine C stabilisé qui revitalise et illumine votre peau dès le rinçage. Sa formule enrichie en diglycérol, puissant actif hydratant, associé à une base nettoyante douce d'origine végétale, élimine efficacement les impuretés tout en laissant la peau parfaitement confortable. Texture légère et onctueuse, elle se transforme en mousse délicate au contact de l'eau pour une expérience sensorielle agréable. La peau est nette, éclatante et hydratée après chaque utilisation.</g:description>
-      <g:link>https://nuhanciam.com/products/mousse-nettoyante-revitalisante?variant=53950256709976</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-mousse-nettoyante-vitamine-C.jpg?v=1753962723</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>20.50 EUR</g:price>
-      <g:brand>Nuhanciam</g:brand>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
-      <g:product_type>Visage</g:product_type>
-      <g:gtin>3664448000342</g:gtin>
-      <g:mpn>032</g:mpn>
-      <g:identifier_exists>yes</g:identifier_exists>
-      <g:shipping_weight>0.21 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-MousseVitamineC.jpg?v=1764751055</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse-nettoyante-vitamine-c-eclat-de-la-peau_-_Nuhanciam.jpg?v=1764751055</g:additional_image_link>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:item_group_id>14810758775128</g:item_group_id>
-      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
-      <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Démaquillants &amp; Nettoyants, Lissage &amp; Fermeté, Visage</g:custom_label_4>
     </item>
@@ -3025,6 +3025,35 @@
       <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
+      <g:id>046</g:id>
+      <g:title>Sérum Éclaircissant Taches - 30 ml</g:title>
+      <g:description>Le Sérum Éclaircissant Taches pour le visage, le cou et le décolleté, est un soin quotidien spécialement conçu pour réduire et prévenir l'apparition des taches pigmentaires face aux agressions extérieures. Sa formule avancée associe trois actifs puissants : l'extrait d'algues Arc-en-ciel, concentré cellulaire aux propriétés éclaircissantes, l'extrait de Fleur de nopal qui accélère l'exfoliation naturelle de la peau, et la niacinamide qui réduit la surproduction de mélanine responsable des taches. Son efficacité est cliniquement prouvée* avec une réduction significative de 27,4% de l'intensité de la couleur des taches après 56 jours d'utilisation et une amélioration de l'éclat de 13,2% sur les phototypes VI (moyenne de 4,4% sur l'ensemble des phototypes). Sa texture légère et fondante pénètre rapidement sans effet gras pour une peau visiblement plus unifiée, lumineuse et éclatante jour après jour.</g:description>
+      <g:link>https://nuhanciam.com/products/serum-eclaircissant-taches?variant=53950253891928</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-serum-eclaircissant-taches.jpg?v=1753954644</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>48.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
+      <g:product_type>Visage</g:product_type>
+      <g:gtin>3664448000410</g:gtin>
+      <g:mpn>046</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:shipping_weight>0.162 kg</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-SerumEclaircissantTaches.jpg?v=1743509718</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/SERUMECLAIRCISSANTETACHES.png?v=1743509718</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/anti-taches-puissance4_1.jpg?v=1743509718</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-serum-eclaircissant-taches-_-_Nuhanciam.jpg?v=1759940673</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>14810757890392</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Visage</g:custom_label_1>
+      <g:custom_label_2>regular</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+    </item>
+    <item>
       <g:id>252030</g:id>
       <g:title>Sérum Éclaircissant Taches - 2x30 ml</g:title>
       <g:description>Le Sérum Éclaircissant Taches pour le visage, le cou et le décolleté, est un soin quotidien spécialement conçu pour réduire et prévenir l'apparition des taches pigmentaires face aux agressions extérieures. Sa formule avancée associe trois actifs puissants : l'extrait d'algues Arc-en-ciel, concentré cellulaire aux propriétés éclaircissantes, l'extrait de Fleur de nopal qui accélère l'exfoliation naturelle de la peau, et la niacinamide qui réduit la surproduction de mélanine responsable des taches. Son efficacité est cliniquement prouvée* avec une réduction significative de 27,4% de l'intensité de la couleur des taches après 56 jours d'utilisation et une amélioration de l'éclat de 13,2% sur les phototypes VI (moyenne de 4,4% sur l'ensemble des phototypes). Sa texture légère et fondante pénètre rapidement sans effet gras pour une peau visiblement plus unifiée, lumineuse et éclatante jour après jour.</g:description>
@@ -3083,33 +3112,37 @@
       <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
-      <g:id>046</g:id>
-      <g:title>Sérum Éclaircissant Taches - 30 ml</g:title>
-      <g:description>Le Sérum Éclaircissant Taches pour le visage, le cou et le décolleté, est un soin quotidien spécialement conçu pour réduire et prévenir l'apparition des taches pigmentaires face aux agressions extérieures. Sa formule avancée associe trois actifs puissants : l'extrait d'algues Arc-en-ciel, concentré cellulaire aux propriétés éclaircissantes, l'extrait de Fleur de nopal qui accélère l'exfoliation naturelle de la peau, et la niacinamide qui réduit la surproduction de mélanine responsable des taches. Son efficacité est cliniquement prouvée* avec une réduction significative de 27,4% de l'intensité de la couleur des taches après 56 jours d'utilisation et une amélioration de l'éclat de 13,2% sur les phototypes VI (moyenne de 4,4% sur l'ensemble des phototypes). Sa texture légère et fondante pénètre rapidement sans effet gras pour une peau visiblement plus unifiée, lumineuse et éclatante jour après jour.</g:description>
-      <g:link>https://nuhanciam.com/products/serum-eclaircissant-taches?variant=53950253891928</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-serum-eclaircissant-taches.jpg?v=1753954644</g:image_link>
+      <g:id>033</g:id>
+      <g:title>Sérum Hydratant 24h aux 4 Acides Hyaluroniques - 30 ml</g:title>
+      <g:description>Sérum à l'acide hyaluronique hydratant 24H enrichi en un complexe de 4 acides hyaluroniques. Hydrate en profondeur à chaque niveau de l'épiderme, repulpe, apaise et révèle un teint visiblement plus lisse et éclatant. Texture légère, résultats visibles dès 7 jours. Pour toutes les peaux.</g:description>
+      <g:link>https://nuhanciam.com/products/serum-hydratant-24h-aux-4-acides-hyaluroniques?variant=56255902515544</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Serum-hydratant-24hx1.jpg?v=1774944289</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>48.00 EUR</g:price>
+      <g:price>36.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
       <g:product_type>Visage</g:product_type>
-      <g:gtin>3664448000410</g:gtin>
-      <g:mpn>046</g:mpn>
+      <g:gtin>3664448000366</g:gtin>
+      <g:mpn>033</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
       <g:shipping_weight>0.162 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-SerumEclaircissantTaches.jpg?v=1743509718</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/SERUMECLAIRCISSANTETACHES.png?v=1743509718</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/anti-taches-puissance4_1.jpg?v=1743509718</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-serum-eclaircissant-taches-_-_Nuhanciam.jpg?v=1759940673</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Serum_hydratant_24h_FR.003.jpg?v=1776169718</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Serum_hydratant_24h_FR.004.jpg?v=1776169718</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Serum_hydratant_24h_FR.006.jpg?v=1776169718</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Serum_hydratant_24h_FR.005.jpg?v=1776184328</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Serum_hydratant_24h_FR.007.jpg?v=1776184328</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Serum_hydratant_24h_FR.008.jpg?v=1776184328</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Serum-hydratant-24hx2.jpg?v=1776184328</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Serum-hydratant-24hx3.jpg?v=1776184328</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
-      <g:item_group_id>14810757890392</g:item_group_id>
+      <g:item_group_id>15464789279064</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-taches, Sérums &amp; Concentrés, Visage</g:custom_label_4>
+      <g:custom_label_4>Nouveauté, Peaux deshydratées, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>262006</g:id>
@@ -3140,39 +3173,6 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Nouveauté, Peaux deshydratées, Sérums &amp; Concentrés, Visage</g:custom_label_4>
-    </item>
-    <item>
-      <g:id>033</g:id>
-      <g:title>Sérum Hydratant 24h aux 4 Acides Hyaluroniques - 30 ml</g:title>
-      <g:description>Sérum à l'acide hyaluronique hydratant 24H enrichi en un complexe de 4 acides hyaluroniques. Hydrate en profondeur à chaque niveau de l'épiderme, repulpe, apaise et révèle un teint visiblement plus lisse et éclatant. Texture légère, résultats visibles dès 7 jours. Pour toutes les peaux.</g:description>
-      <g:link>https://nuhanciam.com/products/serum-hydratant-24h-aux-4-acides-hyaluroniques?variant=56255902515544</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Serum-hydratant-24hx1.jpg?v=1774944289</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>36.00 EUR</g:price>
-      <g:brand>Nuhanciam</g:brand>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
-      <g:product_type>Visage</g:product_type>
-      <g:gtin>3664448000366</g:gtin>
-      <g:mpn>033</g:mpn>
-      <g:identifier_exists>yes</g:identifier_exists>
-      <g:shipping_weight>0.162 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Serum_hydratant_24h_FR.003.jpg?v=1776169718</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Serum_hydratant_24h_FR.004.jpg?v=1776169718</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Serum_hydratant_24h_FR.006.jpg?v=1776169718</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Serum_hydratant_24h_FR.005.jpg?v=1776184328</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Serum_hydratant_24h_FR.007.jpg?v=1776184328</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Visuels_Serum_hydratant_24h_FR.008.jpg?v=1776184328</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Serum-hydratant-24hx2.jpg?v=1776184328</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Serum-hydratant-24hx3.jpg?v=1776184328</g:additional_image_link>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:item_group_id>15464789279064</g:item_group_id>
-      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
-      <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Nouveauté, Peaux deshydratées, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
@@ -3209,20 +3209,20 @@
       <g:custom_label_4>Nouveauté, Peaux deshydratées, Sérums &amp; Concentrés, Visage</g:custom_label_4>
     </item>
     <item>
-      <g:id>253041</g:id>
-      <g:title>Soin Corps Extrême - 3x500 ml</g:title>
+      <g:id>036</g:id>
+      <g:title>Soin Corps Extrême - 500 ml</g:title>
       <g:description>Ce soin ultra-hydratant pour le corps apporte douceur, confort et uniformité pour une peau souple, lumineuse et apaisée. Sa texture onctueuse est riche, mais non collante, ni grasse, et procure un confort en parfaite affinité avec les besoins des peaux sèches à très sèches.</g:description>
-      <g:link>https://nuhanciam.com/products/soin-corps-extreme?variant=57082206617944</g:link>
+      <g:link>https://nuhanciam.com/products/soin-corps-extreme?variant=47320134287704</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-soin-corps-ultra-hydratant.jpg?v=1733830372</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>108.00 EUR</g:price>
+      <g:price>36.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
-      <g:mpn>253041</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>91.80 EUR</g:sale_price>
+      <g:gtin>3 664448000328</g:gtin>
+      <g:mpn>036</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
       <g:shipping_weight>0.56 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/soin-hydratant-corps-naturel-peau-tres-seche.png?v=1733852216</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/soin-corps-extreme_1.jpg?v=1733830372</g:additional_image_link>
@@ -3232,7 +3232,7 @@
       <g:item_group_id>8816125968728</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_2>regular</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches</g:custom_label_4>
     </item>
@@ -3265,20 +3265,20 @@
       <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches</g:custom_label_4>
     </item>
     <item>
-      <g:id>036</g:id>
-      <g:title>Soin Corps Extrême - 500 ml</g:title>
+      <g:id>253041</g:id>
+      <g:title>Soin Corps Extrême - 3x500 ml</g:title>
       <g:description>Ce soin ultra-hydratant pour le corps apporte douceur, confort et uniformité pour une peau souple, lumineuse et apaisée. Sa texture onctueuse est riche, mais non collante, ni grasse, et procure un confort en parfaite affinité avec les besoins des peaux sèches à très sèches.</g:description>
-      <g:link>https://nuhanciam.com/products/soin-corps-extreme?variant=47320134287704</g:link>
+      <g:link>https://nuhanciam.com/products/soin-corps-extreme?variant=57082206617944</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-soin-corps-ultra-hydratant.jpg?v=1733830372</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>36.00 EUR</g:price>
+      <g:price>108.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
       <g:product_type>Corps</g:product_type>
-      <g:gtin>3 664448000328</g:gtin>
-      <g:mpn>036</g:mpn>
-      <g:identifier_exists>yes</g:identifier_exists>
+      <g:mpn>253041</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>91.80 EUR</g:sale_price>
       <g:shipping_weight>0.56 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/soin-hydratant-corps-naturel-peau-tres-seche.png?v=1733852216</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/soin-corps-extreme_1.jpg?v=1733830372</g:additional_image_link>
@@ -3288,36 +3288,9 @@
       <g:item_group_id>8816125968728</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>regular</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches</g:custom_label_4>
-    </item>
-    <item>
-      <g:id>253067</g:id>
-      <g:title>Soin Repulpant Unifiant - 3x50 ml</g:title>
-      <g:description>Un soin complet pour raviver l’éclat de la peau et lisser les premières rides d’expression. Le plaisir d'une crème anti-âge légère et délicatement fondante pour une sensation de confort immédiat, sans effet gras, ni collant.</g:description>
-      <g:link>https://nuhanciam.com/products/soin-repulpant-unifiant?variant=57082505691480</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-soin-repulpant-unifiant-anti-rides.jpg?v=1753963020</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>141.00 EUR</g:price>
-      <g:brand>Nuhanciam</g:brand>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
-      <g:product_type>Visage</g:product_type>
-      <g:mpn>253067</g:mpn>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>119.85 EUR</g:sale_price>
-      <g:shipping_weight>0.254 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/concentre-anti-taches-nuhanciam_4.jpg?v=1744634563</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/soin.png?v=1744634566</g:additional_image_link>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:item_group_id>8815375319384</g:item_group_id>
-      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
-      <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Crèmes &amp; Fluides, Lissage &amp; Fermeté, Visage</g:custom_label_4>
+      <g:custom_label_4>Corps, Laits &amp; Baumes, Peaux très sèches</g:custom_label_4>
     </item>
     <item>
       <g:id>030</g:id>
@@ -3374,31 +3347,31 @@
       <g:custom_label_4>Crèmes &amp; Fluides, Lissage &amp; Fermeté, Visage</g:custom_label_4>
     </item>
     <item>
-      <g:id>253077</g:id>
-      <g:title>Stop Boutons - 3x15 ml</g:title>
-      <g:description>Le Stop Boutons est un soin correcteur anti-acné ciblé qui réduit rapidement et efficacement les imperfections du visage (front, nez, menton, joues...). Spécifiquement formulé pour les peaux à tendance acnéique, il est non comédogène et offre des résultats visibles en moins de 7 jours.</g:description>
-      <g:link>https://nuhanciam.com/products/stop-boutons?variant=57082597015896</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-stop-boutons-anti-imperfections.jpg?v=1753955852</g:image_link>
+      <g:id>253067</g:id>
+      <g:title>Soin Repulpant Unifiant - 3x50 ml</g:title>
+      <g:description>Un soin complet pour raviver l’éclat de la peau et lisser les premières rides d’expression. Le plaisir d'une crème anti-âge légère et délicatement fondante pour une sensation de confort immédiat, sans effet gras, ni collant.</g:description>
+      <g:link>https://nuhanciam.com/products/soin-repulpant-unifiant?variant=57082505691480</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-soin-repulpant-unifiant-anti-rides.jpg?v=1753963020</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>52.50 EUR</g:price>
+      <g:price>141.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Facial Moisturizers</g:google_product_category>
       <g:product_type>Visage</g:product_type>
-      <g:mpn>253077</g:mpn>
+      <g:mpn>253067</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:sale_price>44.63 EUR</g:sale_price>
-      <g:shipping_weight>0.032 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/sto-boutons-nuhanciam_ca9ea7cd-ee26-4870-b070-3ba31c3b3ee0.png?v=1753362608</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-correcteur-boutons-acne-visage.webp?v=1753362608</g:additional_image_link>
+      <g:sale_price>119.85 EUR</g:sale_price>
+      <g:shipping_weight>0.254 kg</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/concentre-anti-taches-nuhanciam_4.jpg?v=1744634563</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/soin.png?v=1744634566</g:additional_image_link>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
-      <g:item_group_id>8815363686744</g:item_group_id>
+      <g:item_group_id>8815375319384</g:item_group_id>
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Sérums &amp; Concentrés</g:custom_label_4>
+      <g:custom_label_4>Crèmes &amp; Fluides, Lissage &amp; Fermeté, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>012</g:id>
@@ -3442,6 +3415,33 @@
       <g:mpn>252076</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:sale_price>33.25 EUR</g:sale_price>
+      <g:shipping_weight>0.032 kg</g:shipping_weight>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/sto-boutons-nuhanciam_ca9ea7cd-ee26-4870-b070-3ba31c3b3ee0.png?v=1753362608</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-correcteur-boutons-acne-visage.webp?v=1753362608</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>8815363686744</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_1>Visage</g:custom_label_1>
+      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Sérums &amp; Concentrés</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>253077</g:id>
+      <g:title>Stop Boutons - 3x15 ml</g:title>
+      <g:description>Le Stop Boutons est un soin correcteur anti-acné ciblé qui réduit rapidement et efficacement les imperfections du visage (front, nez, menton, joues...). Spécifiquement formulé pour les peaux à tendance acnéique, il est non comédogène et offre des résultats visibles en moins de 7 jours.</g:description>
+      <g:link>https://nuhanciam.com/products/stop-boutons?variant=57082597015896</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-stop-boutons-anti-imperfections.jpg?v=1753955852</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>52.50 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Serums</g:google_product_category>
+      <g:product_type>Visage</g:product_type>
+      <g:mpn>253077</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>44.63 EUR</g:sale_price>
       <g:shipping_weight>0.032 kg</g:shipping_weight>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/sto-boutons-nuhanciam_ca9ea7cd-ee26-4870-b070-3ba31c3b3ee0.png?v=1753362608</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleur-correcteur-boutons-acne-visage.webp?v=1753362608</g:additional_image_link>
