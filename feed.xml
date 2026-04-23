@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 22 Apr 2026 10:47:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 10:54:09 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -2199,112 +2199,6 @@
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Masques &amp; Gommages, Visage, Éclat &amp; Douceur</g:custom_label_4>
-    </item>
-    <item>
-      <g:id>028</g:id>
-      <g:title>MINI GOMMAGE CORPS ECLAT - 50 ml</g:title>
-      <g:description>Lisse et affine le grain de peau</g:description>
-      <g:link>https://nuhanciam.com/products/mini-gommage-corps-eclat</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gommage-corps-eclat-50ml-2025.jpg?v=1764248053</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>5.67 EUR</g:price>
-      <g:brand>Nuhanciam</g:brand>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
-      <g:product_type>Corps</g:product_type>
-      <g:gtin>3664448000229</g:gtin>
-      <g:mpn>028</g:mpn>
-      <g:identifier_exists>yes</g:identifier_exists>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gommage-corps-eclat_e547f41e-ee8e-4445-ac1c-542d3e114497.jpg?v=1764248053</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/gommage-corps-eclat_1_5c349459-5cd5-4271-b74c-7ef3074e7e7a.jpg?v=1764248053</g:additional_image_link>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:item_group_id>8914040783192</g:item_group_id>
-      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
-      <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>regular</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Soin corps</g:custom_label_4>
-    </item>
-    <item>
-      <g:id>022</g:id>
-      <g:title>MINI HYDRATANT 24 HEURES - 50 ml</g:title>
-      <g:description>La complémentarité des actifs du Lait Corps apporte 24h d’hydratation* intense, souplesse et protection pour une peau lisse et veloutée. Une efficacité visible et ressentie.</g:description>
-      <g:link>https://nuhanciam.com/products/mini-hydratant-24-heures</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/lait-corps-hydratant-24h-50ml-2025.jpg?v=1764248024</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>3.06 EUR</g:price>
-      <g:brand>Nuhanciam</g:brand>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Body Skin Care &gt; Body Lotions &amp; Creams</g:google_product_category>
-      <g:product_type>Corps</g:product_type>
-      <g:gtin>3664448000052</g:gtin>
-      <g:mpn>022</g:mpn>
-      <g:identifier_exists>yes</g:identifier_exists>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/hydratant-24-heures_834b2725-b60a-4d1f-b6f5-1a824868e6c2.jpg?v=1764248024</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/hydratant-24-heures_1_f09594e5-4536-4f64-8bea-3081529b2db5.jpg?v=1764248024</g:additional_image_link>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:item_group_id>8914046746968</g:item_group_id>
-      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
-      <g:custom_label_1>Corps</g:custom_label_1>
-      <g:custom_label_2>regular</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Peaux deshydratées, Soin corps</g:custom_label_4>
-    </item>
-    <item>
-      <g:id>016</g:id>
-      <g:title>MINI MOUSSE NETTOYANTE DÉMAQUILLANTE DOUCE - 50 ML</g:title>
-      <g:description>Une Mousse Nettoyante Démaquillante Douce pour le visage et les yeux qui associe 3 actifs aux propriétés complémentaires pour laisser la peau nette, éclatante et confortable après le rinçage. Texture mousse dense et onctueuse.</g:description>
-      <g:link>https://nuhanciam.com/products/mousse-nettoyante-demaquillante-douce-copie</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/MINI_MOUSSE_NETTOYANTE_DEMAQUILLANTE_DOUCE_fond_ombre_1.jpg?v=1764751220</g:image_link>
-      <g:availability>out_of_stock</g:availability>
-      <g:price>7.80 EUR</g:price>
-      <g:brand>Nuhanciam</g:brand>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
-      <g:product_type>Visage</g:product_type>
-      <g:gtin>3401360275300</g:gtin>
-      <g:mpn>016</g:mpn>
-      <g:identifier_exists>yes</g:identifier_exists>
-      <g:shipping_weight>0.266 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/nettoyant-moussant-visage-naturel-sans-savon.png?v=1764751220</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse-nettoyante-douce_1.jpg?v=1764751220</g:additional_image_link>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:item_group_id>15485314924888</g:item_group_id>
-      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
-      <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>regular</g:custom_label_2>
-      <g:custom_label_3>out_of_stock</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Visage, Éclat &amp; Douceur</g:custom_label_4>
-    </item>
-    <item>
-      <g:id>059</g:id>
-      <g:title>MINI MOUSSE NETTOYANTE VITAMINE C - 50 ML</g:title>
-      <g:description>La Mousse Nettoyante Vitamine C, pour le visage et le cou, agit comme un véritable booster d'éclat grâce à son dérivé de vitamine C stabilisé qui revitalise et illumine votre peau dès le rinçage. Sa formule enrichie en diglycérol, puissant actif hydratant, associé à une base nettoyante douce d'origine végétale, élimine efficacement les impuretés tout en laissant la peau parfaitement confortable. Texture légère et onctueuse, elle se transforme en mousse délicate au contact de l'eau pour une expérience sensorielle agréable. La peau est nette, éclatante et hydratée après chaque utilisation.</g:description>
-      <g:link>https://nuhanciam.com/products/mousse-nettoyante-vitamine-c-copie</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/MINI_MOUSSE_NETTOYANTE_VITAMINE_C_fond_ombre_1.jpg?v=1764751055</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>7.80 EUR</g:price>
-      <g:brand>Nuhanciam</g:brand>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Health &amp; Beauty &gt; Skin Care &gt; Facial Skin Care &gt; Face Cleansers</g:google_product_category>
-      <g:product_type>Visage</g:product_type>
-      <g:gtin>3664448000526</g:gtin>
-      <g:mpn>059</g:mpn>
-      <g:identifier_exists>yes</g:identifier_exists>
-      <g:shipping_weight>0.162 kg</g:shipping_weight>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/FicheActifs-MousseVitamineC.jpg?v=1764751055</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/mousse-nettoyante-vitamine-c-eclat-de-la-peau_-_Nuhanciam.jpg?v=1764751055</g:additional_image_link>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:item_group_id>15485312762200</g:item_group_id>
-      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
-      <g:custom_label_1>Visage</g:custom_label_1>
-      <g:custom_label_2>regular</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
-      <g:custom_label_4>Démaquillants &amp; Nettoyants, Lissage &amp; Fermeté, Visage</g:custom_label_4>
     </item>
     <item>
       <g:id>006</g:id>
