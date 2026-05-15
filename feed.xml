@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 14 May 2026 12:12:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 12:22:00 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -3245,6 +3245,29 @@
       <g:custom_label_2>on_sale</g:custom_label_2>
       <g:custom_label_3>in_stock</g:custom_label_3>
       <g:custom_label_4>Anti-imperfections, Crèmes &amp; Fluides, Sérums &amp; Concentrés</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>326001</g:id>
+      <g:title>Trio Routine Essentielle - Offre Fête des Mères</g:title>
+      <g:description>La routine parfaite pour une peau éclatante, c'est ce que Nuhanciam souhaite offrir à toutes les mamans.Etape 1 : Nettoyer et démaquiller sa peau à l'aide de la mousse nettoyante démaquillante douce. Un régal à utiliser au quotidien tant la mousse est onctueuse. Etape 2 : Le sérum hydratant 24h et ses 4 acides hyaluroniques, le soin essentiel pour ressourcer la peau en profondeur. Etape 3 : La crème éclat unifiante pour un teint unifié et lumineux. Pour la fêtes des mères, jusqu'au 31 mai 2026, la crème éclat unifiante est offerte !</g:description>
+      <g:link>https://nuhanciam.com/products/trio-routine-essentielle-coffret-fete-des-meres</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Coffretfetedesmeres.jpg?v=1778690066</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>97.00 EUR</g:price>
+      <g:brand>Nuhanciam</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Skin Care</g:google_product_category>
+      <g:product_type>Cosmétiques</g:product_type>
+      <g:mpn>326001</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:sale_price>57.90 EUR</g:sale_price>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/Coffret_fete_des_meres_crea.jpg?v=1778690141</g:additional_image_link>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:item_group_id>15753694675288</g:item_group_id>
+      <g:custom_label_0>NUHANCIAM</g:custom_label_0>
+      <g:custom_label_2>on_sale</g:custom_label_2>
+      <g:custom_label_3>in_stock</g:custom_label_3>
     </item>
     <item>
       <g:id>253017</g:id>
