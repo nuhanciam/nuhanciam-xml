@@ -5,7 +5,7 @@
     <link>https://nuhanciam.com</link>
     <description>Soins cosmétiques pour peaux foncées et métissées</description>
     <language>fr</language>
-    <lastBuildDate>Sun, 21 Jun 2026 09:36:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 11:36:12 +0000</lastBuildDate>
     <item>
       <g:id>037</g:id>
       <g:title>Baume Corps Réparateur Intense - 500 ml</g:title>
@@ -482,7 +482,7 @@
       <g:description>La Crème Éclaircissante Taches pour le visage et le cou agit sur tous les types de taches pigmentaires brunes (irritation, soleil, vieillissement). Spécialement conçue pour répondre aux besoins des peaux noires à mates, elle est tout autant adaptée aux peaux plus claires. Les meilleurs ingrédients ont été sélectionnés pour leur capacité à cibler et traiter l'hyperpigmentation tout en respectant l'équilibre naturel de la peau. Formulée à partir d'actifs d’origine naturelle, cette crème anti-taches offre une action éclaircissante douce et prolongée et se distingue par sa formulation innovante, alliant science et naturalité.</g:description>
       <g:link>https://nuhanciam.com/products/creme-eclaircissante-taches?variant=49874859295064</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0785/1009/6728/files/meilleure-creme-eclaircissante-taches.jpg?v=1753955059</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>backorder</g:availability>
       <g:price>34.00 EUR</g:price>
       <g:brand>Nuhanciam</g:brand>
       <g:condition>new</g:condition>
@@ -499,7 +499,7 @@
       <g:custom_label_0>NUHANCIAM</g:custom_label_0>
       <g:custom_label_1>Visage</g:custom_label_1>
       <g:custom_label_2>regular</g:custom_label_2>
-      <g:custom_label_3>in_stock</g:custom_label_3>
+      <g:custom_label_3>backorder</g:custom_label_3>
       <g:custom_label_4>Anti-taches, Crèmes &amp; Fluides, Nouveauté, Visage</g:custom_label_4>
     </item>
     <item>
